@@ -17,7 +17,7 @@ body {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url('../img/bg.jpg');
+  background-image: url('https://res.cloudinary.com/gerock/image/upload/v1628626598/bg_t4tnc1.jpg');
   background-size: cover;
 }
 
